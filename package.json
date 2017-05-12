@@ -1,8 +1,9 @@
 {
-  "name": "untitled1",
+  "name": "MatBotTwit",
   "version": "0.0.1",
   "main": "bot.js",
   "dependencies": {
+    "giphy-api": "^1.2.6",
     "twit": "^2.2.5"
   }
 }
